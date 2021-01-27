@@ -1,0 +1,6 @@
+name: Hatch
+version: ${project.version}
+main: com.firehousesmp.hatch.Hatch
+api-version: 1.16
+authors: [ Terminalogic ]
+description: Hatch is a first time spawning plugin for Minecraft

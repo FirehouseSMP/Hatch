@@ -1,0 +1,12 @@
+# Leave empty to enable all worlds
+InWorlds: []
+# Set X Spawn Coords for new player
+xCoord: 0
+# Set Y Spawn Coords for a new player
+yCoord: 0
+# Set Z Spawn Coords for a enw player
+zCoords: 0
+# Set the Yaw of player
+Yaw: 0
+# Set the Pitch of player
+Pitch: 0
